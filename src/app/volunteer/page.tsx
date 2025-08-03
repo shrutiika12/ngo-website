@@ -1,9 +1,8 @@
 export default function VolunteerForm() {
   return (
-    <div
-      className="min-h-screen bg-[url('/your-background-image.jpg')] bg-cover bg-center bg-no-repeat flex items-center justify-center px-6 ml-100">
-      <div className="bg-black/50 backdrop-blur-md p-10 md:p-14 rounded-2xl text-white max-w-lg w-full">
-        <h1 className="text-4xl font-bold mb-6 text-lime-300 text-center">Volunteer with Us 🌿</h1>
+    <div className="min-h-screen bg-[url('earth.jpg')] bg-cover bg-center bg-no-repeat flex items-center justify-center px-4 md:px-6">
+      <div className="bg-black/50 backdrop-blur-md p-6 md:p-10 rounded-2xl text-white w-full max-w-lg">
+        <h1 className="text-3xl md:text-4xl font-bold mb-6 text-lime-400 text-center">Volunteer with Us 🌿</h1>
         <form className="flex flex-col space-y-4">
           <input
             type="text"
@@ -27,4 +26,3 @@ export default function VolunteerForm() {
     </div>
   );
 }
-
