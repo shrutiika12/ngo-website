@@ -1,5 +1,3 @@
 ## 🚀 Live Demo
 
-Check out the live website 👉 [Click Here]('ngo-website-975o.vercel.app')
-
-
+Check it out here 👉 [ngo-website-975o.vercel.app](https://ngo-website-975o.vercel.app)
