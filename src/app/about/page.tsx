@@ -6,7 +6,7 @@ export default function About() {
       <div className="bg-black/50 p-8 rounded-xl max-w-4xl">
         <h1 className="text-4xl font-extrabold mb-4">Who We Are</h1>
         <p className="mb-6">
-          We are a passionate non-profit organization on a mission to protect and expand India’s green cover.
+          We are a passionate non-profit organization on a mission to protect and expand India&apos;s green cover.
           Our goal is simple yet powerful — to plant trees, restore forests, and inspire communities to take climate action.
         </p>
 
@@ -18,7 +18,7 @@ export default function About() {
 
         <h2 className="text-2xl font-bold mb-2">Our Mission</h2>
         <p className="mb-4">
-          To restore the Earth’s green cover through community-led afforestation and environmental education.
+          To restore the Earth&apos;s green cover through community-led afforestation and environmental education.
           We work with people from all walks of life to create sustainable, green communities.
         </p>
         <ul className="list-disc list-inside text-left mb-8 space-y-2">
