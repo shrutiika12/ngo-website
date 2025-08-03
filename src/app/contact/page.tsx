@@ -10,7 +10,7 @@ export default function ContactPage() {
             <h1 className="text-4xl font-bold mb-6 text-green-900">Get in Touch 📞</h1>
 
             <p className="text-lg mb-6">
-                We'd love to hear from you! Whether you want to collaborate, partner with us, or simply say hello.
+                We&apos;d love to hear from you! Whether you want to collaborate, partner with us, or simply say hello.
             </p>
 
             <div className="mb-6">
